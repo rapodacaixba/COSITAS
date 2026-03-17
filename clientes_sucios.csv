@@ -1,0 +1,501 @@
+ID,Nombre,Ciudad
+1, PEDRO ,Toluca
+2,Carmen,TOLUCA
+3,Jose,MONTERREY 
+4,CARMEN,puebla 
+5,Luisa,Puebla
+6,LAURA, Toluca
+7,Juan, Merida
+8,MARIA,Leon
+,LAURA,Puebla
+10,Pedro,Guadalajara 
+11,maria,MONTERREY 
+12,Carmen,Tijuana
+13,Maria, tijuana
+14,Laura,Leon
+15,Pedro, Puebla
+16,Juan,CDMX
+,Pedro, Leon
+18,Pedro,Guadalajara
+19,juan,Toluca
+20,laura,monterrey
+21,Luis,Guadalajara
+22,Juan,Guadalajara
+23,Juan,CDMX
+24, Pedro ,toluca
+25,Pedro,Toluca
+26,jose, Monterrey
+27,Pedro,Toluca
+28,Luis, LEON
+29,Pedro,tijuana
+30,PEDRO, Tijuana
+31,JOSE Carlos,Tijuana 
+32,CARLOS,tijuana
+33,Luis,TIJUANA
+34,MARIA Jose,merida
+35, JUAN ,Monterrey
+36q,Pedro,
+37,Pedro, toluca
+38,Maria,Tijuana
+39,Carlos,cdmx
+40,Juan,Leon
+41,ANA,Merida
+42,maria,Merida
+43,LUISA Maria, toluca
+44,Pedro,CDMX 
+45,Luis,Monterrey
+46,JOSE,TIJUANA
+47,LAURA,Guadalajara
+48,Maria,Leon
+, LUISA , Guadalajara
+50,Ana,Merida
+51, Maria ,CDMX
+52,Laura,TOLUCA
+53,carmen, CDMX
+54,maria,guadalajara
+55,Ana,TIJUANA
+56, JUAN , Merida
+57,Carlos, Merida
+58,Juan,Toluca
+59,Pedro,Monterrey 
+60,CARMEN, Merida
+61,Jose, Merida
+62,PEDRO,monterrey
+63,PEDRO,merida 
+64,Ana,toluca
+65, Maria ,Puebla
+66,Juan,Guadalajara
+67,,Guadalajara
+68,Luis,TIJUANA
+69,Ana,tijuana
+70,Jose,CDMX
+71,Pedro,Merida 
+72, Carlos ,toluca
+73,Jose,Monterrey
+74c, Pedro ,Tijuana
+75,MARIA Carmen,Tijuana
+76,PEDRO,toluca
+77,Carmen,MONTERREY
+78,Pedro,Tijuana
+79,CARLOS Luisa,Monterrey
+80,Juan Maria,TIJUANA
+81,juan,Leon
+82,LUIS,monterrey
+83,Carlos Luisa,
+,,Leon 
+85,Laura,Monterrey
+86,Laura,Tijuana
+87,Laura,Toluca
+88,Luisa,Leon
+89,Luisa,CDMX
+90,Pedro Luisa,Leon
+91V,CARMEN,Guadalajara
+92,Maria,Merida
+93j,Laura, PUEBLA 
+94,Carmen,MONTERREY
+95, jose ,Monterrey
+96,ANA,CDMX
+97,PEDRO,Guadalajara 
+,Carlos,puebla 
+99,Luisa,CDMX
+100,ANA,GUADALAJARA
+101,CARLOS Luis, Puebla
+102,Pedro,Leon
+,Maria,CDMX
+104,, guadalajara 
+105,Ana,
+106O,Luisa,Guadalajara
+107,Laura, Leon
+108g,maria Carlos, Monterrey
+109,luisa Maria, CDMX
+110, Juan ,Monterrey
+111,Carmen, Toluca
+112,carlos,Toluca
+113, Ana ,Leon
+114,juan,guadalajara 
+,MARIA,LEON
+116,Luisa,Leon
+117,Laura, Guadalajara
+118,Ana,Merida 
+119,MARIA,Tijuana
+120, Luisa ,Leon
+121,Luisa Luisa,CDMX
+,carlos,monterrey
+123,PEDRO,Puebla
+124,maria,Leon
+125, Carlos , CDMX
+126,Luis, Monterrey
+127,luis,Puebla
+128,luisa,CDMX
+129,ANA,MONTERREY 
+130,Maria,Tijuana
+131,Luisa, LEON
+132,Carlos,Tijuana
+133, Jose Ana ,Monterrey 
+134,LUISA,puebla
+135,Jose,Toluca
+136,Jose,toluca
+137,Pedro, Monterrey
+,MARIA,TOLUCA
+139Z,Juan,Leon
+140,JUAN,guadalajara
+141,CARMEN,CDMX
+142,PEDRO Laura,
+,CARMEN,TIJUANA
+144,jose,Merida
+145,LAURA Jose,TOLUCA
+146,Maria Ana,Leon
+147,JUAN,Puebla
+148,Carmen,Tijuana
+149, maria Luisa ,Guadalajara
+150,, Leon
+151,Laura,guadalajara
+152,Juan Jose,Puebla
+153,Ana, Toluca
+154o,JOSE,Puebla
+155,JUAN,TOLUCA
+156,Ana,Leon
+157,Carmen,TOLUCA
+158,JOSE,Leon
+159,Juan,Merida 
+160,Pedro,LEON
+161,Maria Luisa,Tijuana
+162,Juan Luis,Tijuana
+163,Maria,Guadalajara
+164,Laura,
+165,luis,puebla 
+166,Jose,Toluca
+167, luis , Guadalajara
+168, Laura ,Leon
+169,LAURA,Merida
+170,,Monterrey
+171,Maria,guadalajara
+172,pedro,Puebla
+173,JOSE,Guadalajara
+174,Laura,LEON
+175,Jose,Toluca
+176,Luis,leon
+177,Jose,Toluca
+178,Carmen,Tijuana
+179,Carmen,CDMX
+180,Carlos,MONTERREY 
+181,Ana,LEON
+182,maria,Toluca
+183,carlos,
+184,Carlos,
+185,Jose,merida 
+186,pedro,CDMX
+187,,Monterrey
+188,Luisa,Merida
+189,Pedro,Puebla
+190,Jose,MONTERREY 
+191,JOSE,PUEBLA
+192,laura Juan,Leon
+193, Juan , cdmx 
+194d,Maria,Toluca
+195, Carlos ,CDMX
+196,Ana,puebla
+197,LUIS,Guadalajara
+198, Juan ,merida
+,Juan,Tijuana
+200,Ana,CDMX
+201,Luisa,toluca
+,carmen,
+203,Pedro,guadalajara 
+,Luisa, Monterrey
+205,Juan Ana,TOLUCA
+206,Laura,LEON
+207,,Leon
+208,Carlos,TOLUCA
+209,juan, Puebla
+210,carmen,TIJUANA 
+211,ana,Toluca
+212,juan,monterrey
+213,Laura,Puebla
+214,Ana,GUADALAJARA
+215, Maria ,Puebla
+216,Laura,Toluca
+217,Carlos,Merida
+218,Pedro,Toluca
+219,Laura,Monterrey
+220,ANA,Puebla
+221,Maria,Puebla
+222,Maria,Puebla 
+223,Ana,Monterrey
+224,JOSE, CDMX
+225,pedro,TOLUCA 
+226,Jose,Toluca
+227,,Puebla
+228, Carlos ,Leon
+229,Luis,leon
+230,,PUEBLA
+231i,laura,MERIDA
+232,CARMEN,TIJUANA
+233,ana,Guadalajara
+234,,
+235,Ana,Monterrey
+236,,guadalajara
+237,ana,Monterrey
+238,ana,CDMX
+239,Laura, Puebla
+240,Jose,CDMX
+241,Luisa,CDMX
+242,MARIA,Leon
+,Laura Luisa,CDMX
+244,Jose,Leon
+245,Maria Pedro,Guadalajara
+246,Carlos,toluca
+247,Juan,CDMX
+248,Jose,CDMX
+249,Jose,
+250,Pedro Luis,guadalajara 
+251, Pedro , CDMX
+252, Ana ,Leon
+253,Maria,Guadalajara
+254,Laura,
+255, Maria ,tijuana
+256,Laura,Leon
+257,ana,TOLUCA 
+258,ANA,
+259,Carmen,Leon
+260, Carlos ,CDMX
+261,Maria,Monterrey
+262,ana,TOLUCA
+263, LUISA ,Toluca
+264,Pedro,Toluca
+265, Carlos Carmen ,leon
+,Luis,CDMX 
+267,juan,puebla
+268,Laura,guadalajara
+,Jose,MONTERREY
+270,,Toluca
+,Luis,leon
+272,Carmen,Monterrey
+, Laura ,Leon
+274,Pedro,Monterrey
+275U,CARMEN,
+276,, CDMX
+277,Luisa,Guadalajara
+,Maria,MERIDA
+279,carmen, Puebla
+280, Jose ,toluca 
+281, Carlos ,Leon
+282,,CDMX
+283, laura ,Leon
+284,Luisa, GUADALAJARA
+285,Pedro,Toluca
+286v,carlos, CDMX
+287,Ana, Toluca 
+288,Juan,TOLUCA
+289,Ana,toluca
+290,PEDRO,CDMX
+291,CARLOS,puebla
+292,Luisa,CDMX
+293,LUISA Ana,Monterrey
+294,Luisa,LEON
+295,Carmen,Merida
+296R,Pedro,guadalajara
+297,carlos,Leon
+298,PEDRO,CDMX
+299,Juan Luisa,Tijuana
+300G, Ana ,Toluca
+301,Carlos,CDMX
+302, Luisa ,
+303,Laura,CDMX
+304,Carlos,LEON
+305,CARLOS,Toluca
+306,Carlos,Toluca
+307,Ana,LEON 
+308,pedro,TOLUCA
+,LUIS,CDMX
+310,luis,tijuana
+311,Luis,Tijuana
+312,Juan,Monterrey
+313,Laura,cdmx
+314,Ana,
+315,Jose, Tijuana
+316,Maria,
+317,JUAN,CDMX
+318,LUIS,LEON
+319, CARLOS ,MONTERREY
+320,ana,CDMX
+321,JUAN,Puebla
+322, Pedro ,Leon
+323,pedro Luis,CDMX
+324c,Laura,Leon
+325,Laura,GUADALAJARA
+326,JUAN,CDMX
+,LAURA,CDMX
+328, MARIA , CDMX
+329,ANA,GUADALAJARA
+330,Ana,Merida
+331,Pedro,Guadalajara
+332,Carlos,Toluca
+333, ANA ,CDMX
+334, Luisa ,Toluca
+335,,Monterrey
+336,,tijuana
+337,LUISA,leon
+338,Juan,GUADALAJARA
+339, luisa ,CDMX
+340,ana,Guadalajara 
+,LUISA Laura,Guadalajara
+342,JOSE,Puebla
+343, Jose ,Leon
+344,Carmen Luis,Tijuana
+345, carmen ,LEON
+346,,cdmx
+347,Pedro, Guadalajara 
+348,jose,toluca
+349,,guadalajara
+350, carlos ,
+351,maria Maria,Tijuana
+352,juan,
+353,Pedro,Leon
+354,Juan,Leon 
+355,Juan Luisa,LEON
+356,Jose,tijuana
+357,Laura,TIJUANA
+358,luisa,PUEBLA
+359,Jose,CDMX
+360,jose,CDMX
+361,Luisa,Puebla
+362,PEDRO,Leon
+,Luisa,Tijuana
+364,Pedro, CDMX 
+365,LAURA,MONTERREY
+366,Ana,PUEBLA
+367, Laura , CDMX
+368,Carlos,Puebla
+369,Pedro,Leon
+370,Laura,Merida
+371,juan,
+372,juan Carmen,Puebla
+373,LUISA,CDMX
+374, pedro ,Guadalajara
+375,Jose, CDMX
+376,Carmen,Guadalajara
+377, Laura ,guadalajara
+378, MARIA ,PUEBLA
+379,LAURA,Monterrey
+380,LUISA,Tijuana
+381,pedro,CDMX
+382,Pedro,Puebla
+383N,Carlos,Toluca
+384, PEDRO ,Puebla 
+385,Maria,monterrey
+386,Carmen,LEON
+387, Jose ,CDMX
+388,Ana,CDMX
+,Jose,Puebla
+390, LUIS ,puebla
+391,Carlos,Guadalajara
+392,Carlos,Leon
+393,juan,Merida
+394,Carmen,Leon
+395,luisa,toluca
+396,LUISA,Toluca
+,Juan,Merida
+398,Jose,Tijuana
+399,luisa,
+400,Juan,Monterrey
+401,Juan,monterrey
+402,,Monterrey
+403,Luisa,Monterrey
+404,Carlos Ana,MERIDA
+405,Jose,Tijuana
+406,Pedro, Tijuana
+407,Pedro,Monterrey
+408,luisa Luisa,Merida
+409,PEDRO,Leon
+410, Luis , CDMX
+411,,Leon
+412,CARMEN, Guadalajara
+413,LAURA,CDMX 
+414,luisa,Leon
+415,Laura,guadalajara
+416,Laura,merida
+417,Luis,Monterrey
+418,Ana,Guadalajara
+419, ANA ,Leon
+420,Luisa,Leon
+421,ANA,Guadalajara
+,Ana,cdmx
+423,ana,Guadalajara
+424,Jose,Guadalajara 
+425,Luis,Merida
+426,Luis,Toluca
+427,Laura,CDMX
+428,CARLOS, Puebla
+429,Jose,Monterrey
+430,Carmen Pedro,Guadalajara
+431,Carmen,leon
+432f, Laura ,Merida
+433, Jose ,
+434,Ana,Toluca
+435m,Pedro,MONTERREY
+436,Maria,Guadalajara
+437,Carmen,
+438,Maria,TOLUCA
+439,Laura,CDMX
+440,juan, MONTERREY
+441,laura Ana,TIJUANA
+442,Pedro Laura,Tijuana
+443,carlos,guadalajara
+444,Carmen,TIJUANA
+445,Luis,Guadalajara
+446,Carmen,Guadalajara
+447,Ana,Tijuana
+448,ana,CDMX
+449,Laura,Toluca
+,Carlos,MERIDA
+451,Juan,Puebla
+452,Pedro Luisa,Puebla
+453, Maria ,Merida
+454,Maria,MONTERREY
+455, LUIS ,Toluca 
+456,laura,MERIDA
+457, JOSE Juan ,Toluca
+458,jose,
+459x,Maria,Tijuana
+460,Jose Jose,Merida
+461,Carmen,Tijuana
+462,Carlos,Monterrey
+463,Pedro,puebla
+464, Jose ,Monterrey
+465,maria,puebla
+466,Maria,guadalajara
+467,Jose,Monterrey
+468,JOSE Ana,CDMX 
+469,pedro,
+470,Ana,TIJUANA
+471t, pedro ,CDMX
+472,Pedro,
+473, Laura ,tijuana
+474,JOSE,Guadalajara
+475,Maria,Toluca 
+476,Ana,
+477, Luis ,CDMX 
+478,Carlos,Toluca
+479,Carlos,Merida
+480,pedro Maria,CDMX
+481,Laura,Leon
+482,Carmen,TOLUCA
+483,LUISA,Monterrey 
+484, ana Jose ,tijuana
+,Juan,Toluca
+486,Maria,merida
+487,Carlos,
+488,Pedro, Puebla
+489,maria,Puebla
+490,Luis,LEON
+491,Luisa Carlos, Guadalajara
+492,PEDRO,monterrey
+493,luisa,
+494,JUAN,Merida
+495,Luis,MONTERREY
+496,Carmen,LEON
+,jose,Tijuana
+498, Jose ,Tijuana
+499,Luisa,guadalajara
+500, Maria ,Puebla
